@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /send-order.php
+
+Sitemap: https://francisadvertising.lk/sitemap.xml
